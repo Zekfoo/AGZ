@@ -9,7 +9,7 @@ Although the PCB has a GBA form factor, the CPU is taken from a GBA SP for a gre
 
 ![](https://github.com/Zekfoo/AGZ/blob/main/Images/PCB_Front.jpg)
 
-This is a one-off production of what I envisioned as my ideal GBA and has been submitted as an entry to r/Gameboy’s summer build contest. It is a one-of-a-kind Game Boy in the most literal sense.
+This is a one-off production of what I envisioned as my ideal GBA and was an entry to [r/Gameboy’s Summer 2021 build contest](https://old.reddit.com/r/Gameboy/comments/pyncmb/summer_modding_contest_final_results/), having been voted the winner in both the Technical and Overall categories. It is a one-of-a-kind Game Boy in the most literal sense.
 
 ### Features
 
@@ -64,7 +64,7 @@ This is a one-off production of what I envisioned as my ideal GBA and has been s
 
 ### Why redesign the GBA?
 
-I really want to like the Game Boy Advance. Growing up with a GBA SP, I was spoiled by its clicky buttons, rechargeable battery, and illuminated screen. When I finally got my hands on one, I couldn’t be more disappointed by the stark difference in feel and function. While today’s retro modding scene has produced many improvements for the GBA (referred to from now on as its codename AGB), the console still has many quirks that simple modding hasn’t been able to fix, but that can be addressed in a circuit redesign. In no particular order, here are the problems I have with the Game Boy Advance:
+I really want to like the Game Boy Advance. Growing up with a GBA SP, I was spoiled by its clicky buttons, rechargeable battery, and illuminated screen. When I finally got my hands on an original GBA, I couldn’t be more disappointed by the stark difference in feel and function. While today’s retro modding scene has produced many improvements for the GBA (referred to from now on as its codename AGB), the console still has many quirks that simple modding hasn’t been able to fix, but that can be addressed in a circuit redesign. In no particular order, here are the problems I have with the Game Boy Advance:
 
 **It runs on AA batteries.** While this certainly wasn’t an issue 20 years ago, and many won’t find it an issue today, we now live in a rechargeable world. The devices I use day-to-day are all plug-in rechargeable, and the idea of having to swap out batteries, even if to recharge them externally, feels very antiquated. 
 
@@ -108,7 +108,7 @@ The volume of the audio is adjusted using a stereo wheel potentiometer, an after
 
 ##### Buttons
 
-Many tactile button mods exist for the AGB which use tactile switches, including my own attempt at the concept. From my experience, while these tactile switches produce a satisfying click, they tend to be very stiff and fatiguing to play on. For the AGZ-001, I opted instead to use tactile domes from Snaptron for the DPAD and A/B buttons, with ENIG surface finish on the PCB to improve the contacts. These domes have a lower actuation force than typical tactile switches while still producing a strong click when they bottom out. That said, the START and SELECT buttons still use tactile switches since they are what I found to feel the best for these two buttons.
+Many tactile button mods exist for the AGB which use tactile switches, including [my own attempt at the concept](https://github.com/Zekfoo/tactileAGB). From my experience, while these tactile switches produce a satisfying click, they tend to be very stiff and fatiguing to play on. For the AGZ-001, I opted instead to use tactile domes from Snaptron for the DPAD and A/B buttons, with ENIG surface finish on the PCB for good electrical contact. These domes have a lower actuation force than typical tactile switches while still producing a strong click when they bottom out. That said, the START and SELECT buttons still use tactile switches since they are what I found to feel the best for these two buttons.
 
 ##### Exterior
 
